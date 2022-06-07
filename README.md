@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   <a href="mailto:delovski.office@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 🫂 Appreciate my work? Let's have a coffee ##
+## &#128076; Appreciate my work? Let's have a coffee ##
 <a href="https://www.buymeacoffee.com/ec1Pdqk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
