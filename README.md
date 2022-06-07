@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ## 🌎 &nbsp;Where to find me ##
 <p>
-  <a href="https://dev.to/kiril6" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kdelovski6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/kiril6" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="https://hashnode.com/@kiril6" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="mailto:delovski.office@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
