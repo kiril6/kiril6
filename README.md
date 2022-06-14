@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Kiril</b>
 <br>
 <a href="https://app.daily.dev/kiril6"><img align="right" src="https://github.com/kiril6/kiril6/blob/main/devcard.svg" width="300" alt="Kiril Delovski's Dev Card"/></a>
+
+<a href="https://delovski.net/qr"><img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Zdsoz41M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/xtl2ad51u4zxctqvq8e2.PNG" width="300" alt="Kiril Delovski's Dev Card"/></a>
+
 <p aligh="left">
   <p>Hey there, welcome!</br>
   I'm Kiril, Senior Front End developer from <img src="https://www.pngfind.com/pngs/m/65-656737_germany-flag-icon-png-germany-flag-icon-flat.png" width="14px"/> <b>Hamburg, Germany</b>.</p>
