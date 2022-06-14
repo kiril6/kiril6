@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 ## ✍🏼 &nbsp;My latest blog articles ##
+- [Running a postman collection with newman alongside plugins (newman-reporter-htmlextra | pdf-export | pdf-parse)](https://dev.to/kiril6/running-a-postman-collection-with-newman-alongside-plugins-newman-reporter-htmlextra-pdf-export-pdf-parse-211l)
 - [How to Pass a JavaScript Interview](https://delovski.net/initio/blog-post-3.html)
 
 ## 🌎 &nbsp;Where to find me ##
