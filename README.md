@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Kiril</b>
 <br>
-<a href="https://app.daily.dev/kiril6"><img align="right" src="https://github.com/kiril6/kiril6/blob/main/devcard.svg" width="300" alt="Kiril Delovski's Dev Card"/></a>
+<a href="https://app.daily.dev/kiril6"><img align="right" src="https://github.com/kiril6/kiril6/blob/main/devcard.svg" width="280" alt="Kiril Delovski's Dev Card"/></a>
 
 <p align="left">
   <p>Hey there, welcome!</br>
