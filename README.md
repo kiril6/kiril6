@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
   💡 &nbsp;I like to explore new trends and learn new technologies. Always seeking for new challenges and keeping myself up to date.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
+  👯 &nbsp;I am currently mentoring group of enthusiastic mentees which want to become great developers, if you you are one of those feel free to join the [discord group](https://discord.gg/qGmDB8m)
 </p>
 
 ## ✍🏼 &nbsp;My latest blog articles ##
