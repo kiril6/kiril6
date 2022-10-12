@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 <a href="https://delovski.net/qr"><img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Zdsoz41M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/xtl2ad51u4zxctqvq8e2.PNG" width="150" alt="Kiril Delovski's Dev Card"/></a>
 
-## &#128076; Appreciate my work? Let's start by having a coffee ##
+## &#128076; Appreciate my work? Let's start by having a [coffee](https://www.buymeacoffee.com/ec1Pdqk) ##
 <a href="https://www.buymeacoffee.com/ec1Pdqk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
