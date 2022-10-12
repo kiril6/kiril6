@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <p>Hey there, welcome!</br>
   I'm Kiril, Senior Front End developer from <img src="https://www.pngfind.com/pngs/m/65-656737_germany-flag-icon-png-germany-flag-icon-flat.png" width="14px"/> <b>Hamburg, Germany</b>.</p>
 
-  💡 &nbsp;I like to explore new trends and learn new technologies. Always seeking for new challenges and keeping myself up to date.\
+  💡 &nbsp;I like to explore new trends and learn new technologies. Always seeking for new challenges and keeping myself up to date.
   👯 &nbsp;I am currently mentoring group of enthusiastic mentees which want to become great developers, if you you are one of those feel free to join the [discord group](https://discord.gg/qGmDB8m)
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
