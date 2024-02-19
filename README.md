@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 <p align="left">
   <p>Hey there, welcome!</br>
-  I'm Kiril, Senior Front End developer from <img src="https://www.pngfind.com/pngs/m/65-656737_germany-flag-icon-png-germany-flag-icon-flat.png" width="14px"/> <b>Hamburg, Germany</b>.</p>
+  I'm Kiril, Senior Front End developer from <img src="https://www.pngfind.com/pngs/m/65-656737_germany-flag-icon-png-germany-flag-icon-flat.png" width="14px"/> <b>Hamburg, Germany</b>.</br>
+  -Author of "Javascript Interview Cheat Sheet Manual" 
+   https://kiril6.gumroad.com/l/HkTmS
+</p>
 
   💡 &nbsp;I like to explore new trends and learn new technologies. Always seeking for new challenges and keeping myself up to date. \
   👯 &nbsp;I am currently mentoring group of enthusiastic mentees which want to become great developers, if you you are one of those feel free to join the [discord group](https://discord.gg/qGmDB8m), or view our [repository](https://github.com/kiril6/mentorship-platform) for practicing. \
