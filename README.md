@@ -19,14 +19,21 @@ Here are some ideas to get you started:
 <p align="left">
   <p>Hey there, welcome!</br>
   I'm Kiril, Senior Front End developer from <img src="https://www.pngfind.com/pngs/m/65-656737_germany-flag-icon-png-germany-flag-icon-flat.png" width="14px"/> <b>Hamburg, Germany</b>.</br>
-  -Author of "Javascript Interview Cheat Sheet Manual" 
-   https://kiril6.gumroad.com/l/HkTmS
+  - Author of 📝 <a href="https://kiril6.gumroad.com/l/HkTmS" style="color: transparent; text-decoration: none;">Javascript Interview Cheat Sheet Manual</a>
 </p>
 
   💡 &nbsp;I like to explore new trends and learn new technologies. Always seeking for new challenges and keeping myself up to date. \
   👯 &nbsp;I am currently mentoring group of enthusiastic mentees which want to become great developers, if you you are one of those feel free to join the [discord group](https://discord.gg/qGmDB8m), or view our [repository](https://github.com/kiril6/mentorship-platform) for practicing. \
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
+
+## 🔥 Latest Projects:
+- [Create Digital Signature](https://sign.delovski.net/) - Create easily digital signature, download and use it based on your needs.
+<!--
+- [Project 2 Name](#) - Description of project 2.
+- [Project 3 Name](#) - Description of project 3.
+-->
+> &#8594; [View More Projects 🌟](https://portfolio.delovski.net/)
 
 ## ✍🏼 &nbsp;My latest blog articles ##
 - [Running a postman collection with newman alongside plugins (newman-reporter-htmlextra | pdf-export | pdf-parse)](https://dev.to/kiril6/running-a-postman-collection-with-newman-alongside-plugins-newman-reporter-htmlextra-pdf-export-pdf-parse-211l)
