@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 > &#8594; [View More Projects 🌟](https://portfolio.delovski.net/)
 
 ## ✍🏼 &nbsp;My latest blog articles ##
+- [Creating a Custom Console Logger in JavaScript](https://dev.to/kiril6/creating-a-custom-console-logger-in-javascript-4i4n_)
 - [Running a postman collection with newman alongside plugins (newman-reporter-htmlextra | pdf-export | pdf-parse)](https://dev.to/kiril6/running-a-postman-collection-with-newman-alongside-plugins-newman-reporter-htmlextra-pdf-export-pdf-parse-211l)
 - [How to Pass a JavaScript Interview](https://delovski.net/initio/blog-post-3.html)
 
