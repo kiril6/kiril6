@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 </p>
 
 ## 🔥 Latest Projects:
-- [Create Digital Signature](https://sign.delovski.net/) - Create easily digital signature, download and use it based on your needs.
+- [Custom Console Logger in JavaScript](https://kiril6.github.io/customConsoleLogger/)
+- [Check Package Versions from npmjs.com](https://npm.delovski.net/)
+- [Create Digital Signature](https://sign.delovski.net/)
 <!--
 - [Project 2 Name](#) - Description of project 2.
 - [Project 3 Name](#) - Description of project 3.
