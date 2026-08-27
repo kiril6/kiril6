@@ -62,8 +62,8 @@ I build for the web and enjoy chasing new trends, tools, and hard problems. Alwa
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiril6&show_icons=true&hide_border=true&count_private=true" alt="Kiril's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiril6&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiril6&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" alt="Kiril's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiril6&layout=compact&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
 
 ## 🌎 Where to Find Me
