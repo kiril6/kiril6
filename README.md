@@ -55,6 +55,7 @@ I build for the web and enjoy chasing new trends, tools, and hard problems. Alwa
 
 ## ✍🏼 Latest Articles
 
+- [Your AI Agent Is Thinking. You're Just Staring at a Blank Screen.](https://dev.to/kiril6/your-ai-agent-is-thinking-youre-just-staring-at-a-blank-screen-b09)
 - [I Built a Local-First Terminal Dashboard with Floating Shell Windows](https://dev.to/kiril6/i-built-a-local-first-terminal-dashboard-with-floating-shell-windows-31kk)
 - [Creating a Custom Console Logger in JavaScript](https://dev.to/kiril6/creating-a-custom-console-logger-in-javascript-4i4n)
 - [Running a Postman Collection with Newman + Plugins (htmlextra · pdf-export · pdf-parse)](https://dev.to/kiril6/running-a-postman-collection-with-newman-alongside-plugins-newman-reporter-htmlextra-pdf-export-pdf-parse-211l)
