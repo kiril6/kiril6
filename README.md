@@ -74,6 +74,7 @@ I build for the web and enjoy chasing new trends, tools, and hard problems. Alwa
   <a href="https://www.linkedin.com/in/kdelovski6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/kiril6" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="mailto:delovski.office@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://calendar.app.google/ZphKRSdSujz52h4AA" target="_blank"><img alt="Book a Call" src="https://img.shields.io/badge/-Book%20a%20Call-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
 </p>
 
 ---
