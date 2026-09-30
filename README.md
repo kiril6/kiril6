@@ -27,7 +27,7 @@ I build for the web and enjoy chasing new trends, tools, and hard problems. Alwa
 
 - 📝 &nbsp;Author of the [JavaScript Interview Cheat Sheet Manual](https://kiril6.gumroad.com/l/HkTmS)
 - 👯 &nbsp;Mentoring developers on their way up — join the [Discord](https://discord.gg/qGmDB8m) or practice in the [mentorship-platform](https://github.com/kiril6/mentorship-platform)
-- 💬 &nbsp;Open to consulting, volunteering, and good technical conversation
+- 💬 &nbsp;Open to consulting, volunteering, AI-agent tooling work, and good technical conversation
 
 <br clear="right" />
 
@@ -45,8 +45,23 @@ I build for the web and enjoy chasing new trends, tools, and hard problems. Alwa
 
 ## 🔥 Latest Projects
 
-- **[VibeAudio](https://github.com/kiril6/vibeaudio)** — procedural focus music while your AI coding agent thinks, plus a done/error chime, zero audio files ([npm](https://www.npmjs.com/package/vibeaudio))
-- **[termdeck](https://github.com/kiril6/termdeck)** — a local-first browser cockpit for running Claude Code, Codex and Gemini side by side: isolated git worktrees per agent, "needs approval" alerts across all projects, and sessions that survive restarts ([npm](https://www.npmjs.com/package/@kiril6/termdeck))
+### 🤖 AI agent tooling
+
+**[termdeck](https://github.com/kiril6/termdeck)** — a local-first browser cockpit for running Claude Code, Codex and Gemini side by side: isolated git worktrees per agent, "needs approval" alerts across all projects, and sessions that survive restarts.
+
+[![npm](https://img.shields.io/npm/v/@kiril6/termdeck?label=npm&color=bd93f9)](https://www.npmjs.com/package/@kiril6/termdeck)
+[![release](https://img.shields.io/github/v/release/kiril6/termdeck?color=bd93f9)](https://github.com/kiril6/termdeck/releases/latest)
+[![downloads](https://img.shields.io/npm/dm/@kiril6/termdeck?label=downloads&color=bd93f9)](https://www.npmjs.com/package/@kiril6/termdeck)
+
+<a href="https://kiril6.github.io/termdeck/"><img src="https://raw.githubusercontent.com/kiril6/termdeck/master/docs/demo.gif" width="560" alt="termdeck demo: floating terminal windows running AI coding agents" /></a>
+
+**[VibeAudio](https://github.com/kiril6/vibeaudio)** — procedural focus music that follows your AI coding agent: plays while it works, pauses when it needs you, chimes when it's done. Zero audio files.
+
+[![npm](https://img.shields.io/npm/v/vibeaudio?label=npm&color=bd93f9)](https://www.npmjs.com/package/vibeaudio)
+[![downloads](https://img.shields.io/npm/dm/vibeaudio?label=downloads&color=bd93f9)](https://www.npmjs.com/package/vibeaudio)
+
+### 🧰 Web tools
+
 - **[Custom Console Logger in JavaScript](https://kiril6.github.io/customConsoleLogger/)** — a styled, configurable drop-in for `console`
 - **[npm Package Version Checker](https://npm.delovski.net/)** — look up package versions straight from npmjs.com
 - **[Digital Signature Creator](https://sign.delovski.net/)** — generate a digital signature in the browser
