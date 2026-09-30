@@ -53,7 +53,7 @@ I build for the web and enjoy chasing new trends, tools, and hard problems. Alwa
 [![release](https://img.shields.io/github/v/release/kiril6/termdeck?color=bd93f9)](https://github.com/kiril6/termdeck/releases/latest)
 [![downloads](https://img.shields.io/npm/dm/@kiril6/termdeck?label=downloads&color=bd93f9)](https://www.npmjs.com/package/@kiril6/termdeck)
 
-<a href="https://kiril6.github.io/termdeck/"><img src="https://raw.githubusercontent.com/kiril6/termdeck/master/docs/demo-agents.gif" width="560" alt="termdeck running three AI coding agents in separate git worktrees" /></a>
+<a href="https://kiril6.github.io/termdeck/"><img src="https://raw.githubusercontent.com/kiril6/termdeck/master/docs/demo.gif" width="560" alt="termdeck running three AI coding agents in separate git worktrees" /></a>
 
 **[VibeAudio](https://github.com/kiril6/vibeaudio)** — procedural focus music that follows your AI coding agent: plays while it works, pauses when it needs you, chimes when it's done. Zero audio files.
 
