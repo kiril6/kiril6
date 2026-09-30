@@ -46,7 +46,7 @@ I build for the web and enjoy chasing new trends, tools, and hard problems. Alwa
 ## 🔥 Latest Projects
 
 - **[VibeAudio](https://github.com/kiril6/vibeaudio)** — procedural focus music while your AI coding agent thinks, plus a done/error chime, zero audio files ([npm](https://www.npmjs.com/package/vibeaudio))
-- **[termdeck](https://github.com/kiril6/termdeck)** — a browser cockpit of floating terminal windows, each backed by a real PTY on the host
+- **[termdeck](https://github.com/kiril6/termdeck)** — a local-first browser cockpit for running Claude Code, Codex and Gemini side by side: isolated git worktrees per agent, "needs approval" alerts across all projects, and sessions that survive restarts ([npm](https://www.npmjs.com/package/@kiril6/termdeck))
 - **[Custom Console Logger in JavaScript](https://kiril6.github.io/customConsoleLogger/)** — a styled, configurable drop-in for `console`
 - **[npm Package Version Checker](https://npm.delovski.net/)** — look up package versions straight from npmjs.com
 - **[Digital Signature Creator](https://sign.delovski.net/)** — generate a digital signature in the browser
