@@ -94,6 +94,4 @@ I build for the web and enjoy chasing new trends, tools, and hard problems. Alwa
 
 ---
 
-<h3>👌 Appreciate my work? You can <a href="https://ko-fi.com/K3K2X0ERJ">support me on Ko-fi</a></h3>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K2X0ERJ)
+<h3>👌 Appreciate my work? <a href="https://ko-fi.com/K3K2X0ERJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" align="absmiddle" /></a></h3>
